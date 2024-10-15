@@ -24,6 +24,7 @@ main > h1 {
 #fruits {
   /* The syntax of the first radius allows one to four values */
 /* Radius is set for all 4 sides */
+border: 2px solid green;
 border-radius: 10px;
 color: red;
 }
