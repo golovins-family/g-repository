@@ -47,9 +47,6 @@ height: 60px;
   border: 2px solid yellow;
 }
 
-.box {
-  border: 1px solid orange;
-  height: 50%;
-  width: 50%;
+.container {
+  display: flex;
 }
-
