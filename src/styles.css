@@ -9,7 +9,7 @@ main > h1 {
 /* Radius is set for all 4 sides */
 border: 2px solid blue;
 border-radius: 10px;
-width: 300px;
+width: 30%;
 height: 60px;
 }
 
@@ -17,7 +17,7 @@ height: 60px;
   text-align: center;
   border-radius: 10px;
   border: 2px solid green;
-  width: 300px;
+  width: 30%;
   height: 60px;
   box-shadow: 10px 10px 5px 0px rgba(255,255,255,0.75);
 }
@@ -25,7 +25,7 @@ height: 60px;
 #meats {
   text-align: center;
   border-radius: 10px;
-  width: 300px;
+  width: 30%;
   height: 60px;
   border: 2px solid red;
 }
