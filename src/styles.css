@@ -31,15 +31,17 @@ height: 60px;
 }
 
 #vegetables {
+  border-radius: 10px;
   border: 2px solid yellow;
   width: 300px;
   height: 60px;
 }
 
 #meat {
+  border-radius: 10px;
   width: 300px;
   height: 60px;
-  border: 1px solid yellow;
+  border: 2px solid yellow;
 }
 
 .box {
