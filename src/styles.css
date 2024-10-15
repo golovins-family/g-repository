@@ -31,5 +31,5 @@ height: 60px;
 }
 
 .container {
-  display: inline;
+  display: inline-block;
 }
