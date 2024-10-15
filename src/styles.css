@@ -22,6 +22,7 @@ main > h1 {
 }
 
 #fruits {
+  text-align: center;
   /* The syntax of the first radius allows one to four values */
 /* Radius is set for all 4 sides */
 border: 2px solid yellow;
@@ -31,6 +32,7 @@ height: 60px;
 }
 
 #vegetables {
+  text-align: center;
   border-radius: 10px;
   border: 2px solid yellow;
   width: 300px;
@@ -38,6 +40,7 @@ height: 60px;
 }
 
 #meats {
+  text-align: center;
   border-radius: 10px;
   width: 300px;
   height: 60px;
