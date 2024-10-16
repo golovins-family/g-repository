@@ -12,7 +12,7 @@ border: 2px solid blue;
 border-radius: 10px;
 width: 200px;
 padding: 5px;
-height: 60px;
+height: 200px;
 box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
 0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
 0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
@@ -25,7 +25,7 @@ box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
   border: 2px solid green;
   width: 200px;
   padding: 5px;
-  height: 60px;
+  height: 200px;
   box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
   0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
   0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
@@ -37,7 +37,7 @@ box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
   border-radius: 10px;
   width: 200px;
   padding: 5px;
-  height: 60px;
+  height: 200px;
   border: 2px solid red;
   box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
   0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
@@ -47,4 +47,8 @@ box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
 .container {
  display: flex;
  justify-content: center;
+ }
+
+ #items {
+text-align: left;
  }
