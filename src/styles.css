@@ -13,9 +13,6 @@ border-radius: 10px;
 width: 120px;
 padding: 0px;
 height: 200px;
-box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
-0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
-0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
 }
 
 #vegetables {
@@ -26,10 +23,7 @@ box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
   width: 120px;
   padding: 0px;
   height: 200px;
-  box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
-  0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
-  0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
-}
+  }
 
 #meats {
   margin: 20px;
@@ -39,16 +33,12 @@ box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
   padding: 0px;
   height: 200px;
   border: 2px solid red;
-  box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
-  0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
-  0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
 }
-
 .container {
- display: flex;
- justify-content: center;
- }
+ display: inline-block;
+  }
 
- #items {
+ .items {
+display: inline;
 text-align: left;
  }
