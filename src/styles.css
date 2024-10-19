@@ -1,40 +1,5 @@
 h1 {
   text-align: center;
-  font-size: 3.5em;
+  font-size: 1.5em;
 }
-
-#fruits {
-text-align: left;
-margin: 20px;
-/* The syntax of the first radius allows one to four values */
-/* Radius is set for all 4 sides */
-border: 2px solid blue;
-border-radius: 10px;
-width: 120px;
-padding: 0px;
-height: 200px;
-}
-
-#vegetables {
-  margin: 20px;
-  text-align: left;
-  border-radius: 10px;
-  border: 2px solid green;
-  width: 120px;
-  padding: 0px;
-  height: 200px;
-  }
-
-#meats {
-  margin: 20px;
-  text-align: left;
-  border-radius: 10px;
-  width: 150px;
-  padding: 0px;
-  height: 200px;
-  border: 2px solid red;
-}
-#container {
- display: inline-block;
-  }
 
