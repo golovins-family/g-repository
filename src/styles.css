@@ -12,6 +12,9 @@ body {
   border: 2px solid greenyellow;
   display: flex;
 }
+#row {
+  width: 100%;
+}
 #gr1 {
   margin: 5%;
   text-align: center;
