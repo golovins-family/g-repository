@@ -17,22 +17,26 @@ body {
   height: 40px;
   width: 40%;
   border: 2px solid red;
+  color: red;
 }
 #gr2 {
   margin: 5%;
   height: 40px;
   width: 40%;
   border: 2px solid blue;
+  color: blue;
 }
 #gr3 {
   margin: 5%;
   height: 40px;
   width: 40%;
   border: 2px solid green;
+  color: green;
 }
 #gr4 {
   margin: 5%;
   height: 40px;
   width: 40%;
   border: 2px solid yellow;
+  color: yellow;
 }
