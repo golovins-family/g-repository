@@ -19,7 +19,7 @@ body {
   margin: 5%;
   text-align: center;
   height: 40px;
-  width: 40%;
+  width: 90%;
   border: 2px solid red;
   color: red;
 }
@@ -27,7 +27,7 @@ body {
   margin: 5%;
   text-align: center;
   height: 40px;
-  width: 40%;
+  width: 90%;
   border: 2px solid blue;
   color: blue;
 }
@@ -35,7 +35,7 @@ body {
   margin: 5%;
   text-align: center;
   height: 40px;
-  width: 40%;
+  width: 90%;
   border: 2px solid green;
   color: green;
 }
@@ -43,7 +43,7 @@ body {
   margin: 5%;
   text-align: center;
   height: 40px;
-  width: 40%;
+  width: 90%;
   border: 2px solid yellow;
   color: yellow;
 }
