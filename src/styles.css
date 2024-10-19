@@ -19,6 +19,7 @@ body {
   text-align: center;
   height: 40px;
   width: 90%;
+  border-radius: 10px;
   border: 2px solid red;
   color: red;
 }
@@ -27,6 +28,7 @@ body {
   text-align: center;
   height: 40px;
   width: 90%;
+  border-radius: 10px;
   border: 2px solid blue;
   color: blue;
 }
@@ -35,6 +37,7 @@ body {
   text-align: center;
   height: 40px;
   width: 90%;
+  border-radius: 10px;
   border: 2px solid green;
   color: green;
 }
@@ -43,6 +46,7 @@ body {
   text-align: center;
   height: 40px;
   width: 90%;
+  border-radius: 10px;
   border: 2px solid yellow;
   color: yellow;
 }
