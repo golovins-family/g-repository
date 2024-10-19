@@ -4,7 +4,8 @@ h1 {
   color: greenyellow;
 }
 body {
-  background-color: black;
+  color: #eee;
+  background: #121212;
 }
 #container {
   width: 100%;
