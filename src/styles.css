@@ -14,7 +14,7 @@ body {
 }
 #gr1 {
   margin: 5%;
-  text-align: center;
+  align-content: center;
   height: 40px;
   width: 40%;
   border: 2px solid red;
@@ -22,7 +22,7 @@ body {
 }
 #gr2 {
   margin: 5%;
-  text-align: center;
+  align-content: center;
   height: 40px;
   width: 40%;
   border: 2px solid blue;
@@ -30,7 +30,7 @@ body {
 }
 #gr3 {
   margin: 5%;
-  text-align: center;
+  align-content: center;
   height: 40px;
   width: 40%;
   border: 2px solid green;
@@ -38,7 +38,7 @@ body {
 }
 #gr4 {
   margin: 5%;
-  text-align: center;
+  align-content: center;
   height: 40px;
   width: 40%;
   border: 2px solid yellow;
