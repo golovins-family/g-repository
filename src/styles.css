@@ -20,8 +20,8 @@ body {
   height: 40px;
   width: 90%;
   border-radius: 10px;
-  border: 2px solid red;
-  background-color: red;
+  border: 2px solid darkred;
+  background-color: darkred;
 }
 #gr2 {
   margin: 5%;
@@ -29,8 +29,8 @@ body {
   height: 40px;
   width: 90%;
   border-radius: 10px;
-  border: 2px solid blue;
-  background-color: blue;
+  border: 2px solid darkblue;
+  background-color: darkblue;
 }
 #gr3 {
   margin: 5%;
