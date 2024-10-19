@@ -21,7 +21,7 @@ body {
   width: 90%;
   border-radius: 10px;
   border: 2px solid red;
-  color: red;
+  background-color: red;
 }
 #gr2 {
   margin: 5%;
@@ -30,7 +30,7 @@ body {
   width: 90%;
   border-radius: 10px;
   border: 2px solid blue;
-  color: blue;
+  background-color: blue;
 }
 #gr3 {
   margin: 5%;
@@ -39,7 +39,7 @@ body {
   width: 90%;
   border-radius: 10px;
   border: 2px solid green;
-  color: green;
+  background-color: green;
 }
 #gr4 {
   margin: 5%;
@@ -47,6 +47,6 @@ body {
   height: 40px;
   width: 90%;
   border-radius: 10px;
-  border: 2px solid yellow;
-  color: yellow;
+  border: 2px solid purple;
+  background-color: purple;
 }
