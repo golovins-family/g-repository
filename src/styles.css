@@ -13,12 +13,14 @@ body {
   display: flex;
 }
 #gr1 {
-  margin-right: 5%;
+  margin: 5%;
+  height: 40px;
   width: 40%;
   border: 2px solid red;
 }
 #gr2 {
-  margin-left: 5%;
+  margin: 5%;
+  height: 40px;
   width: 40%;
   border: 2px solid blue;
 }
