@@ -50,3 +50,75 @@ body {
   border: 2px solid purple;
   background-color: purple;
 }
+#gr5 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid darkorange;
+  background-color: darkorange;
+}
+#gr6 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid darkolivegreen;
+  background-color: darkolivegreen;
+}
+#gr7 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid darkcyan;
+  background-color: darkcyan;
+}
+#gr8 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid darkmagenta;
+  background-color: darkmagenta;
+}
+#gr9 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid darkred;
+  background-color: darkred;
+}
+#gr10 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid darkblue;
+  background-color: darkblue;
+}
+#gr11 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid green;
+  background-color: green;
+}
+#gr12 {
+  margin: 5%;
+  text-align: center;
+  height: 40px;
+  width: 90%;
+  border-radius: 10px;
+  border: 2px solid purple;
+  background-color: purple;
+}
