@@ -11,3 +11,11 @@ body {
   height: 100%;
   border: 2px solid greenyellow;
 }
+#gr1 {
+  width: 40%;
+  border: 2px solid red;
+}
+#gr2 {
+  width: 40%;
+  border: 2px solid blue;
+}
