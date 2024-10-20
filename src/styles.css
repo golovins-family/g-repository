@@ -6,8 +6,15 @@ header {
   background-color: #3C3D37;
   text-align: center;
 }
+a {
+  color: #ECDFCC;
+  text-decoration: none;
+}
 #container {
   width: 100%;
   height: 100%;
   display: flex;
+}
+#nav {
+
 }
