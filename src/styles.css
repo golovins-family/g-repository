@@ -1,6 +1,9 @@
 body {
-  color: #eee;
-  background: #121212;
+  color: #ECDFCC;
+  background: #181C14;
+}
+header {
+  background-color: #3C3D37;
 }
 #container {
   width: 100%;
