@@ -3,6 +3,8 @@ body {
   background: #181C14;
 }
 header {
+  border: 2px solid #3C3D37;
+  border-radius: 10px;
   background-color: #3C3D37;
   text-align: center;
 }
