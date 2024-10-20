@@ -2,6 +2,9 @@ h1 {
   text-align: center;
   font-size: 2.5em;
 }
+a {
+  text-decoration: none;
+}
 body {
   color: #eee;
   background: #121212;
