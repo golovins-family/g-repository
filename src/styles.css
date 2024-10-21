@@ -29,3 +29,7 @@ div.item {
   height: 100%;
   display: flex;
 }
+div.item:hover {
+  color: #181C14;
+  background: #ECDFCC; 
+}
