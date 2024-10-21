@@ -21,6 +21,7 @@ padding: 10px;
 div {
   padding: 5px;
   border: 1px solid #ECDFCC;
+  border-radius: 5px;
   margin: 10px;
 }
 #container {
