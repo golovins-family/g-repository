@@ -13,6 +13,7 @@ a {
   text-decoration: none;
 }
 div {
+  border: 1px solid black;
   margin: 10px;
 }
 #container {
