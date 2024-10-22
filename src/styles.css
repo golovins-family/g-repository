@@ -33,6 +33,6 @@ div.item:hover {
   color: #181C14;
   background: #ECDFCC; 
 }
-a:hover {
+div a:hover {
   color: #181C14;
 }
