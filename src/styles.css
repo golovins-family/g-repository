@@ -30,6 +30,7 @@ div.item {
   display: flex;
 }
 div.item:hover {
+  color: #181C14;
   background: #ECDFCC; 
 }
 a:hover {
