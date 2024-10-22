@@ -8,7 +8,7 @@ header {
   background-color: #3C3D37;
   text-align: center;
 }
-a {
+a:active {
   color: #ECDFCC;
   text-decoration: none;
 }
@@ -30,7 +30,6 @@ div.item {
   display: flex;
 }
 div.item:hover {
-  color: #181C14;
   background: #ECDFCC; 
 }
 a:hover {
