@@ -10,7 +10,7 @@ header {
 }
 a {
   display: block;
-  width: 100px;
+  width: 200px;
   padding: 5px;
   border: 1px solid #ECDFCC;
   border-radius: 5px;
@@ -35,7 +35,7 @@ div.item {
   height: 100%;
   display: flex;
 }
-div.item:hover {
+a:hover {
   color: #181C14;
   background: #ECDFCC; 
 }
