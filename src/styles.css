@@ -10,7 +10,7 @@ header {
 }
 a {
   display: block;
-  width: 100%;
+  width: 100px;
   padding: 5px;
   border: 1px solid #ECDFCC;
   border-radius: 5px;
