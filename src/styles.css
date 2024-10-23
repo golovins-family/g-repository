@@ -9,6 +9,8 @@ header {
   text-align: center;
 }
 a {
+  border: 2px solid #ECDFCC;
+  border-radius: 5px;
   color: #ECDFCC;
   text-decoration: none;
 }
