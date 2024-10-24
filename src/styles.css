@@ -4,6 +4,7 @@ body {
 }
 header {
   background-color: #3C3D37;
+  border-radius: 5px;
   text-align: center;
 }
 a {
