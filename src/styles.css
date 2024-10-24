@@ -3,8 +3,6 @@ body {
   background: #181C14;
 }
 header {
-  border: 2px solid #3C3D37;
-  border-radius: 10px;
   background-color: #3C3D37;
   text-align: center;
 }
@@ -19,16 +17,8 @@ a {
   margin: 10px;
 }
 #nav {
-border: 1px solid #3C3D37;
-width: 200px;
 text-align: left;
 padding: 10px;
-}
-div.item {
-  padding: 5px;
-  border: 1px solid #ECDFCC;
-  border-radius: 5px;
-  margin: 10px;
 }
 #container {
   width: 100%;
